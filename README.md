@@ -1,10 +1,10 @@
-# WhatsApp Chat Analyzer
+# Chat Analyzer
 
-Welcome to the WhatsApp Chat Analyzer! This interactive application is designed to help you gain valuable insights from your WhatsApp chat data. Whether you're interested in understanding message trends, exploring word usage, or analyzing emojis, this tool has got you covered.
+Welcome to the Chat Analyzer! This interactive application is designed to help you gain valuable insights from your WhatsApp chat data. Whether you're interested in understanding message trends, exploring word usage, or analyzing emojis, this tool has got you covered.
 
 ## Overview
 
-WhatsApp Chat Analyzer provides a comprehensive set of features including statistics, timelines, word analysis, emoji analysis, topic modeling, and identification of potentially dangerous words. With an intuitive interface and interactive visualizations, you can easily explore and interpret your chat data.
+Chat Analyzer provides a comprehensive set of features including statistics, timelines, word analysis, emoji analysis, topic modeling, and identification of potentially dangerous words. With an intuitive interface and interactive visualizations, you can easily explore and interpret your chat data.
 
 ## Usage
 
